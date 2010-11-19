@@ -47,6 +47,7 @@
 		{
 			if(temp_addr->ifa_addr->sa_family == AF_INET)
 			{
+				//TODO: this could be handled a lot more elegantly!!
 #if TARGET_IPHONE_SIMULATOR
 				// Check if interface is en1 which is the wifi connection on the mac
 				if([[NSString stringWithUTF8String:temp_addr->ifa_name] isEqualToString:@"en1"])

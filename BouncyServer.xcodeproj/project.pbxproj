@@ -26,6 +26,12 @@
 		490CFE341296184200305BBF /* HighlightImagePad.png in Resources */ = {isa = PBXBuildFile; fileRef = 490CFE331296184200305BBF /* HighlightImagePad.png */; };
 		490CFE371296185600305BBF /* BouncyServerViewControllerPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 490CFE361296185600305BBF /* BouncyServerViewControllerPad.xib */; };
 		4982EAA21296191200EF6184 /* MainWindowPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAA11296191200EF6184 /* MainWindowPad.xib */; };
+		4982EACC12961B3D00EF6184 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAC512961B3D00EF6184 /* Icon-72.png */; };
+		4982EACD12961B3D00EF6184 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAC612961B3D00EF6184 /* Icon-Small-50.png */; };
+		4982EACE12961B3D00EF6184 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAC712961B3D00EF6184 /* Icon-Small.png */; };
+		4982EACF12961B3D00EF6184 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAC812961B3D00EF6184 /* Icon-Small@2x.png */; };
+		4982EAD012961B3D00EF6184 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EAC912961B3D00EF6184 /* Icon.png */; };
+		4982EAD112961B3D00EF6184 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4982EACA12961B3D00EF6184 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +62,12 @@
 		490CFE331296184200305BBF /* HighlightImagePad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HighlightImagePad.png; sourceTree = "<group>"; };
 		490CFE361296185600305BBF /* BouncyServerViewControllerPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BouncyServerViewControllerPad.xib; sourceTree = "<group>"; };
 		4982EAA11296191200EF6184 /* MainWindowPad.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindowPad.xib; sourceTree = "<group>"; };
+		4982EAC512961B3D00EF6184 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		4982EAC612961B3D00EF6184 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
+		4982EAC712961B3D00EF6184 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		4982EAC812961B3D00EF6184 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		4982EAC912961B3D00EF6184 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		4982EACA12961B3D00EF6184 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* BouncyServer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "BouncyServer-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,6 +136,12 @@
 				490CFE331296184200305BBF /* HighlightImagePad.png */,
 				490CFD1A129610DC00305BBF /* HighlightImage.png */,
 				490CFD1B129610DC00305BBF /* HighlightImage@2x.png */,
+				4982EAC512961B3D00EF6184 /* Icon-72.png */,
+				4982EAC612961B3D00EF6184 /* Icon-Small-50.png */,
+				4982EAC712961B3D00EF6184 /* Icon-Small.png */,
+				4982EAC812961B3D00EF6184 /* Icon-Small@2x.png */,
+				4982EAC912961B3D00EF6184 /* Icon.png */,
+				4982EACA12961B3D00EF6184 /* Icon@2x.png */,
 				2899E5210DE3E06400AC0155 /* BouncyServerViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				490CFE361296185600305BBF /* BouncyServerViewControllerPad.xib */,
@@ -230,6 +248,12 @@
 				490CFE341296184200305BBF /* HighlightImagePad.png in Resources */,
 				490CFE371296185600305BBF /* BouncyServerViewControllerPad.xib in Resources */,
 				4982EAA21296191200EF6184 /* MainWindowPad.xib in Resources */,
+				4982EACC12961B3D00EF6184 /* Icon-72.png in Resources */,
+				4982EACD12961B3D00EF6184 /* Icon-Small-50.png in Resources */,
+				4982EACE12961B3D00EF6184 /* Icon-Small.png in Resources */,
+				4982EACF12961B3D00EF6184 /* Icon-Small@2x.png in Resources */,
+				4982EAD012961B3D00EF6184 /* Icon.png in Resources */,
+				4982EAD112961B3D00EF6184 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

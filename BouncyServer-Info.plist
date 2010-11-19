@@ -28,8 +28,8 @@
 	<string>MainWindowPad</string>
 	<key>NSMainNibFile~iphone</key>
 	<string>MainWindow</string>
-	<key></key>
-	<string></string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleBlackTranslucent</string>
 </dict>
